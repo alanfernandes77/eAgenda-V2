@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "T92jYYRtX9xFfvs1R6N6mjmBfe1l26EI2FR5uShHvIz78OFS69QhrNUSvNQrFNvR5Hbcdj8PzIaxPJXhyQWfcA==",
+  "success": true,
+  "projectFilePath": "D:\\vs-2022 study\\eAgenda v2\\eAgenda.Dominio\\eAgenda.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alanf\\.nuget\\packages\\anglesharp\\0.16.1\\anglesharp.0.16.1.nupkg.sha512",
+    "C:\\Users\\alanf\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\alanf\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\alanf\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

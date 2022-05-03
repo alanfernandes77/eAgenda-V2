@@ -1,0 +1,12 @@
+D:\vs-2022 study\eAgenda v2\eAgenda.Dominio\bin\Debug\net5.0\eAgenda.Dominio.deps.json
+D:\vs-2022 study\eAgenda v2\eAgenda.Dominio\bin\Debug\net5.0\eAgenda.Dominio.dll
+D:\vs-2022 study\eAgenda v2\eAgenda.Dominio\bin\Debug\net5.0\eAgenda.Dominio.pdb
+D:\vs-2022 study\eAgenda v2\eAgenda.Dominio\obj\Debug\net5.0\eAgenda.Dominio.csproj.AssemblyReference.cache
+D:\vs-2022 study\eAgenda v2\eAgenda.Dominio\obj\Debug\net5.0\eAgenda.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs-2022 study\eAgenda v2\eAgenda.Dominio\obj\Debug\net5.0\eAgenda.Dominio.AssemblyInfoInputs.cache
+D:\vs-2022 study\eAgenda v2\eAgenda.Dominio\obj\Debug\net5.0\eAgenda.Dominio.AssemblyInfo.cs
+D:\vs-2022 study\eAgenda v2\eAgenda.Dominio\obj\Debug\net5.0\eAgenda.Dominio.csproj.CoreCompileInputs.cache
+D:\vs-2022 study\eAgenda v2\eAgenda.Dominio\obj\Debug\net5.0\eAgenda.Dominio.dll
+D:\vs-2022 study\eAgenda v2\eAgenda.Dominio\obj\Debug\net5.0\refint\eAgenda.Dominio.dll
+D:\vs-2022 study\eAgenda v2\eAgenda.Dominio\obj\Debug\net5.0\eAgenda.Dominio.pdb
+D:\vs-2022 study\eAgenda v2\eAgenda.Dominio\obj\Debug\net5.0\ref\eAgenda.Dominio.dll

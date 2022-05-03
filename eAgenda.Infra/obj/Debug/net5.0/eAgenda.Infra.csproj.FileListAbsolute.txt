@@ -1,0 +1,15 @@
+D:\vs-2022 study\eAgenda v2\eAgenda.Infra\bin\Debug\net5.0\eAgenda.Infra.deps.json
+D:\vs-2022 study\eAgenda v2\eAgenda.Infra\bin\Debug\net5.0\eAgenda.Infra.dll
+D:\vs-2022 study\eAgenda v2\eAgenda.Infra\bin\Debug\net5.0\eAgenda.Infra.pdb
+D:\vs-2022 study\eAgenda v2\eAgenda.Infra\bin\Debug\net5.0\eAgenda.Dominio.dll
+D:\vs-2022 study\eAgenda v2\eAgenda.Infra\bin\Debug\net5.0\eAgenda.Dominio.pdb
+D:\vs-2022 study\eAgenda v2\eAgenda.Infra\obj\Debug\net5.0\eAgenda.Infra.csproj.AssemblyReference.cache
+D:\vs-2022 study\eAgenda v2\eAgenda.Infra\obj\Debug\net5.0\eAgenda.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs-2022 study\eAgenda v2\eAgenda.Infra\obj\Debug\net5.0\eAgenda.Infra.AssemblyInfoInputs.cache
+D:\vs-2022 study\eAgenda v2\eAgenda.Infra\obj\Debug\net5.0\eAgenda.Infra.AssemblyInfo.cs
+D:\vs-2022 study\eAgenda v2\eAgenda.Infra\obj\Debug\net5.0\eAgenda.Infra.csproj.CoreCompileInputs.cache
+D:\vs-2022 study\eAgenda v2\eAgenda.Infra\obj\Debug\net5.0\eAgenda.Infra.csproj.CopyComplete
+D:\vs-2022 study\eAgenda v2\eAgenda.Infra\obj\Debug\net5.0\eAgenda.Infra.dll
+D:\vs-2022 study\eAgenda v2\eAgenda.Infra\obj\Debug\net5.0\refint\eAgenda.Infra.dll
+D:\vs-2022 study\eAgenda v2\eAgenda.Infra\obj\Debug\net5.0\eAgenda.Infra.pdb
+D:\vs-2022 study\eAgenda v2\eAgenda.Infra\obj\Debug\net5.0\ref\eAgenda.Infra.dll

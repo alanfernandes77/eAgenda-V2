@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\eAgenda.Componentes\eAgenda.Componentes.csproj" />
+    <ProjectReference Include="..\eAgenda.Dominio\eAgenda.Dominio.csproj" />
+    <ProjectReference Include="..\eAgenda.Infra\eAgenda.Infra.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Forms\AddItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AddTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\EditTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\UpdateItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\CompletedTasksControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\HomeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\PendingTasksControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\ViewCompletedTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ViewPendingTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\AppointmentForms\EditAppointmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AppointmentForms\RegisterAppointmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AppointmentForms\ViewAppointmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ContactForms\AddContactForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ContactForms\EditContactForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ContactForms\ViewBasicContactForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ContactForms\ViewCompleteContactForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SocialDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\FutureAppointmentsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\ContactsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\HomeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\PendingAppointmentsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

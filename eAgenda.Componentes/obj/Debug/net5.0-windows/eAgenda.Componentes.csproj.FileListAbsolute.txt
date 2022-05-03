@@ -1,0 +1,12 @@
+D:\vs-2022 study\eAgenda v2\eAgenda.Componentes\bin\Debug\net5.0-windows\eAgenda.Componentes.deps.json
+D:\vs-2022 study\eAgenda v2\eAgenda.Componentes\bin\Debug\net5.0-windows\eAgenda.Componentes.dll
+D:\vs-2022 study\eAgenda v2\eAgenda.Componentes\bin\Debug\net5.0-windows\eAgenda.Componentes.pdb
+D:\vs-2022 study\eAgenda v2\eAgenda.Componentes\obj\Debug\net5.0-windows\eAgenda.Componentes.csproj.AssemblyReference.cache
+D:\vs-2022 study\eAgenda v2\eAgenda.Componentes\obj\Debug\net5.0-windows\eAgenda.Componentes.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs-2022 study\eAgenda v2\eAgenda.Componentes\obj\Debug\net5.0-windows\eAgenda.Componentes.AssemblyInfoInputs.cache
+D:\vs-2022 study\eAgenda v2\eAgenda.Componentes\obj\Debug\net5.0-windows\eAgenda.Componentes.AssemblyInfo.cs
+D:\vs-2022 study\eAgenda v2\eAgenda.Componentes\obj\Debug\net5.0-windows\eAgenda.Componentes.csproj.CoreCompileInputs.cache
+D:\vs-2022 study\eAgenda v2\eAgenda.Componentes\obj\Debug\net5.0-windows\eAgenda.Componentes.dll
+D:\vs-2022 study\eAgenda v2\eAgenda.Componentes\obj\Debug\net5.0-windows\refint\eAgenda.Componentes.dll
+D:\vs-2022 study\eAgenda v2\eAgenda.Componentes\obj\Debug\net5.0-windows\eAgenda.Componentes.pdb
+D:\vs-2022 study\eAgenda v2\eAgenda.Componentes\obj\Debug\net5.0-windows\ref\eAgenda.Componentes.dll
